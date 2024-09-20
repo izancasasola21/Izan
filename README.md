@@ -9,6 +9,10 @@ Han conseguido muchos logros en el futbol y con sus valores.
 - 14 Super copas de España
 # Leyendas de este club
 - Lionel Messsi
+
+![imatge](https://github.com/user-attachments/assets/bab8e376-1dbe-411b-96aa-a54097c66c24)
+
+
 - Iniesta
 - Xavi
 - Pique
