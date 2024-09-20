@@ -10,17 +10,12 @@ Han conseguido muchos logros en el futbol y con sus valores.
 # Leyendas de este club
 - Lionel Messsi
 
-![imatge](https://github.com/user-attachments/assets/bab8e376-1dbe-411b-96aa-a54097c66c24)
 - Iniesta
 
-![imatge](https://github.com/user-attachments/assets/80ca047f-535d-4e87-bd70-764c3e92849f)
-
 - Xavi
-  ![imatge](https://github.com/user-attachments/assets/92ea7d86-30d3-4d08-aca6-9c85ad5caffb)
 
 - Pique
 
-  
 - Dani alves
   
 - Luis suarez
@@ -31,3 +26,4 @@ Han conseguido muchos logros en el futbol y con sus valores.
   
 # Partido memorable e inolvidable
 [Barcelona 6-2 Madrid, la liga 2009](https://www.youtube.com/watch?v=mMc6VnLCnXg)
+[Barcelona 5-0 Madrid en la liga](https://www.youtube.com/watch?v=LmwPop3Pulg)
